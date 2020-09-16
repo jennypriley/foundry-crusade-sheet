@@ -1,6 +1,6 @@
 {
   "name": "foundry-crusade-sheet",
-  "title": "Simple World-Building",
+  "title": "Warhammer 40K Crusade Sheet",
   "description": "Implementing the 40K crusade system sheets into Foundry. Credit goes to Atropos for the initial template.",
   "version": 0.36,
   "minimumCoreVersion": "0.5.6",
