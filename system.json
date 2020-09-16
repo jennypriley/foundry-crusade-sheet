@@ -1,12 +1,12 @@
 {
-  "name": "worldbuilding",
+  "name": "foundry-crusade-sheet",
   "title": "Simple World-Building",
-  "description": "A minimalist game system with very simple Actor and Item models to support free-form system agnostic gameplay.",
+  "description": "Implementing the 40K crusade system sheets into Foundry. Credit goes to Atropos for the initial template.",
   "version": 0.36,
   "minimumCoreVersion": "0.5.6",
   "compatibleCoreVersion": "0.5.7",
   "templateVersion": 2,
-  "author": "Atropos",
+  "author": "Freezypop",
   "esmodules": ["module/simple.js"],
   "styles": ["styles/simple.css"],
   "packs": [],
@@ -21,8 +21,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "https://gitlab.com/foundrynet/worldbuilding/",
-  "manifest": "https://gitlab.com/foundrynet/worldbuilding/raw/master/system.json",
-  "download": "https://gitlab.com/foundrynet/worldbuilding/-/archive/release-036/worldbuilding-release-036.zip",
+  "url": "https://github.com/jennypriley/foundry-crusade-sheet/",
+  "manifest": "https://raw.githubusercontent.com/jennypriley/foundry-crusade-sheet/master/system.json",
+  "download": "https://github.com/jennypriley/foundry-crusade-sheet/archive/v0.1.0.zip",
   "license": "LICENSE.txt"
 }
